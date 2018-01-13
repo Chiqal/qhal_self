@@ -1,2 +1,1 @@
-# qhal_self
-CHIQAL
+# qhal_selfbot
